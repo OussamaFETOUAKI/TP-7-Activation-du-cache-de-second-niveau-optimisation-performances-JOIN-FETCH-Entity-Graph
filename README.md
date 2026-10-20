@@ -162,4 +162,4 @@ mvn clean compile exec:java
 ## 📝 Auteur
 - **FETOUAKI Oussama**
 - Email : `oussamafetouaki2@gmail.com`
-- Dépôt GitHub : [TP-7-Activation-du-cache-de-second-niveau-optimisation-des-performances-et-suppression-du-probleme-N-1](https://github.com/OussamaFETOUAKI/TP-7-Activation-du-cache-de-second-niveau-optimisation-des-performances-et-suppression-du-probleme-N-1)
+- Dépôt GitHub : [TP-7-Activation-du-cache-de-second-niveau-optimisation-performances-JOIN-FETCH-Entity-Graph](https://github.com/OussamaFETOUAKI/TP-7-Activation-du-cache-de-second-niveau-optimisation-performances-JOIN-FETCH-Entity-Graph)
